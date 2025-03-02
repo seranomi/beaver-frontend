@@ -1,0 +1,21 @@
+ion-toolbar {
+  --background: #ffffff; /* 어두운 상단바 */
+  --color: #000000; /* 글자색 */
+  --border-color: #393e46; /* 경계선 색상 */
+}
+
+ion-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ion-button {
+  --color: #ffffff;
+}
+
+ion-button:hover {
+  --background: #c7c7c7;
+}
